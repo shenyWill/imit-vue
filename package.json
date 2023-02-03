@@ -1,12 +1,12 @@
 {
   "name": "imit-vue",
   "version": "1.0.0",
-  "description": "",
+  "description": "学习vue3源码，重写简易版本的vue3，包好vue3的基本功能",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "shenyuan",
   "license": "ISC"
 }
